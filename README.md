@@ -33,7 +33,7 @@
   <sub>Next.js + TailwindCSS frontend for an online learning platform for children. Achieved <b>100% SEO score</b> and won 1st place in a university competition.</sub>
 
 - [**Event Ticketing Platform**](https://github.com/event-ticketing-devs/event-ticketing-platform)<br>
-  <sub>Full-stack web app with secure authentication, Stripe payments, and role-based access.</sub>
+  <sub>Full-stack web app with secure authentication, Stripe payments, Google Maps integration and role-based access.</sub>
   
 ---
 
