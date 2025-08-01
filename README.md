@@ -9,7 +9,7 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 BTech Computer Engineering student at Marwadi University (2022–2026), Gujarat, India — <b>CGPA: 9.69</b>
+- 🧑‍💻 BTech Computer Engineering student at Marwadi University (2022–2026), Gujarat, India — <b>CGPA: 9.68</b>
 - 🔥 Love working with modern web stacks and always eager to learn something new!
 
 ---
