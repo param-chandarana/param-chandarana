@@ -10,7 +10,6 @@
 ### 🚀 About Me
 
 - 🧑‍💻 BTech Computer Engineering student at Marwadi University (2022–2026), Gujarat, India — <b>CGPA: 9.69</b>
-- 🌱 ReactJS Intern at Ek Software Pvt. Ltd. (June–July 2024)
 - 🔥 Love working with modern web stacks and always eager to learn something new!
 
 ---
