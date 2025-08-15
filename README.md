@@ -34,6 +34,9 @@
 
 - [**Event Ticketing Platform**](https://github.com/event-ticketing-devs/event-ticketing-platform)<br>
   <sub>Full-stack web app with secure authentication, Stripe payments, Google Maps integration and role-based access.</sub>
+
+- [**Bookstore**](https://github.com/param-chandarana/bookstore)<br>
+<sub>An online book store developed using PHP, MySQL, HTML, CSS, TailwindCSS and JavaScript.</sub>
   
 ---
 
