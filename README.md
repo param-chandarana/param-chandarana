@@ -9,8 +9,8 @@
 
 ### 🚀 About Me
 
-- 🧑‍💻 BTech Computer Engineering student at Marwadi University (2022–2026), Gujarat, India.
-- 🔥 Love working with modern web stacks and always eager to learn something new!
+- BTech Computer Engineering student at Marwadi University (2022–2026), Gujarat, India.
+- Love working with modern web stacks and always eager to learn something new!
 
 ---
 
